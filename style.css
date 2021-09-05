@@ -1,0 +1,21 @@
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 50px;
+  background-color: #FF9A4B;
+}
+
+main {
+  width: 960px;
+  margin: 50px auto;
+  display: inline-block;
+}
+
+.section {
+ width: 33%;
+  
+}
